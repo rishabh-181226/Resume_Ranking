@@ -314,39 +314,9 @@ Through this project, I practiced:
 
 ---
 
-## 📸 Suggested Screenshots for GitHub
-
-Add these screenshots to make the repository more attractive:
-
-1. Resume category distribution chart
-2. TF-IDF heatmap
-3. t-SNE cluster visualization
-4. Confusion matrix
-5. Resume ranking output table
-6. Word cloud
-7. Skills by category heatmap
-
-Create a folder:
-
-```text
-/images
-```
-
-Then reference screenshots like this:
-
-```markdown
-![Resume Category Distribution](images/category_distribution.png)
-![Resume Ranking Output](images/ranking_output.png)
-```
-
----
-
 ## 👨‍💻 Author
 
 **Rishabh Gupta**  
-M.S. Business Analytics Student  
-Building data, analytics, and AI projects focused on practical business impact.
-
 ---
 
 ## ⭐ Why This Project Matters
